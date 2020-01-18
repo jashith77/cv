@@ -1,0 +1,7 @@
+      hr{
+          border-style:dotted none none ;
+          height: 1px;
+          border-width : 5px;
+          width: 55px;
+          border-color:lightgray;
+      }
