@@ -1,15 +1,18 @@
-      body{
-        background-color: #e3f6f5;
-      }
-      hr{
-          background-color: white;
-          border-style: none;
-          height: 1px;
-          width: 100%;
-      }
-      h1{
-          color: #66bfbf;
-      }
-      h3{
-          color: #66bfbf;
-      }
+body{
+    background-color: #e3f6f5;
+  }
+  hr{
+      background-color: white;
+      border-style: none;
+      height: 1px;
+      width: 100%;
+  }
+  h1{
+      color: #66bfbf;
+  }
+  h3{
+      color: #66bfbf;
+  }
+  .password{
+      display: inline;
+  }
